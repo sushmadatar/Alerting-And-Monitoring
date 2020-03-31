@@ -8,5 +8,5 @@ At the end of the monitoring tool chain is the [Grafana](https://grafana.com/). 
 
 Below is the Grafana dashboard for Covid-19 data.
 
-[[Covid.PNG|Grafana Dashboard]]
+![Grafana Dashboard](Covid.PNG)
 
